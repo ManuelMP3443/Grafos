@@ -41,10 +41,37 @@ El proyecto sigue la arquitectura MVC (Modelo-Vista-Controlador) simplificada:
     * Ejecuta el archivo `Main/MainF.java`.
     * Ingresa el número de grafo a cargar (ej. `5`, `7`, `8` según los archivos en `recursos`), pulse enter para vizualizar.
     * Selecciona el algoritmo (Prim, Kruskal, Dijkstra), define los vértices y presiona **Mostrar**.
+
+## Capturas de Pantalla
+
+### Menú Principal
+<p align="center">
+  <img src="screenshots/Menu.jpeg" width="700" title="Vista del Menú">
+</p>
+
+### Prim
+<p align="center">
+  <img src="screenshots/Prim.jpeg" width="700" title="Vista del Menú">
+</p>
+
+### Kruskal
+<p align="center">
+  <img src="screenshots/kruskal.png" width="700" title="Vista del Menú">
+</p>
+
+### Ejecución del Algoritmo (Dijkstra)
+<p align="center">
+  <img src="screenshots/Dijkstra.jpeg" width="700" title="Grafo resuelto">
+</p>
+  
   ## Notas sobre la Visualización
 El mapeo de los nodos sobre el mapa de fondo se realizó mediante una estimación estática visual basada en la resolución de la imagen original.
 
 Debido a la naturaleza manual de esta calibración, es posible observar ligeras desviaciones visuales en el punto de anclaje de algunas aristas (líneas) con respecto al centro geométrico del nodo.
+
+## Aviso Legal y Créditos 
+Este software utiliza recursos gráficos con fines exclusivamente educativos y demostrativos.
+Las imágenes son propiedad de sus respectivos autores y no se busca lucro con su distribución.
 
 ## Autor
 * **Manuel Montes Pioquinto** - *Ingeniería en Ciencias de la Computación*
