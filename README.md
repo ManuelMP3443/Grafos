@@ -46,7 +46,7 @@ El mapeo de los nodos sobre el mapa de fondo se realizó mediante una estimació
 
 Debido a la naturaleza manual de esta calibración, es posible observar ligeras desviaciones visuales en el punto de anclaje de algunas aristas (líneas) con respecto al centro geométrico del nodo.
 
-## ✒️ Autor
+## Autor
 * **Manuel Montes Pioquinto** - *Ingeniería en Ciencias de la Computación*
 
 ---
