@@ -1,0 +1,16 @@
+# Archivos compilados
+/build/
+/dist/
+*.class
+
+# Archivos específicos de NetBeans que no deben compartirse
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
